@@ -1365,7 +1365,7 @@ def main():
 
 
 def show_credits():
-    tkinter.messagebox.showinfo(title="Credits", message=f"Version: {version}\n://github.com/qwert9203/chromosome_sim\nCreated by Chow Yui Hong\nAdvisor: Advisor: Ms. Lai Kam Fung, Head of Biology, St. Stephen's Girls' College\nReference: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.letsgethealthy.org/wp-content/uploads/2013/08/Baby-Genome_make_a_baby_simulation_booklet.pdf")
+    tkinter.messagebox.showinfo(title="Credits", message=f"Version: {version}\n://github.com/qwert9203/chromosome_sim\nCreated by Chow Yui Hong\nAdvisor: Ms. Lai Kam Fung, Head of Biology, St. Stephen's Girls' College\nReference: chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.letsgethealthy.org/wp-content/uploads/2013/08/Baby-Genome_make_a_baby_simulation_booklet.pdf")
 
 
 def get_basic_table(letters):
